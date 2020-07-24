@@ -18,7 +18,7 @@ class School
   end
   
   def sort(student_name)
-  roster.sort.student_name
+  roster.sort
   end
 
 
