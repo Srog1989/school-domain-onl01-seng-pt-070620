@@ -19,7 +19,6 @@ class School
   
   def sort
    
-   student_name.sort= 
   end
 
 
