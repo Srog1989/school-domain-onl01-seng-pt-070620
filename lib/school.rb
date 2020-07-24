@@ -18,7 +18,7 @@ class School
   end
   
   def sort
-   student_name.sort
+   student_name.sort= []
   end
 
 
